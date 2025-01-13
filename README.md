@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Vídeo sem título ‐ Feito com o Clipchamp.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/anajuliarrod/anajuliarrod/Vídeo sem título ‐ Feito com o Clipchamp.gif" alt="Oi">
 </p>
 
 <h3 align="center">/searching for infinite learning in the tech world/</h3>
