@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ana Júlia</h1>
 
 <p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/githubvideo.gif" alt="Oi, eu sou a Kizzy">
 </p>
 
 <h3 align="center">/searching for infinite learning in the tech world/</h3>
