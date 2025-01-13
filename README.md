@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Ana Júlia</h1>
+
+<p align="center">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+</p>
+
 <h3 align="center">/searching for infinite learning in the tech world/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajuliarrod&label=Profile%20views&color=0e75b6&style=flat" alt="anajuliarrod" /> </p>
