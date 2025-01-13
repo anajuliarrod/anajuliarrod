@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ana Júlia</h1>
+
 
 <p align="center">
   <img src="https://github.com/anajuliarrod.gif" alt="Oi, eu sou a ana">
