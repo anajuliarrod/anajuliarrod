@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ana Júlia</h1>
 
 <p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/githubvideo.gif" alt="Oi, eu sou a ana">
+  <img src="https://github.com/anajuliarrod.gif" alt="Oi, eu sou a ana">
 </p>
 
 <h3 align="center">/searching for infinite learning in the tech world/</h3>
