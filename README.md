@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anajuliarrod/video" alt="Oi">
+  <img src="https://github.com/anajuliarrod/anajuliarrod/raw/main/assets/header-github.gif" alt="Oi, eu sou a ana">
 </p>
 
 <h3 align="center">/searching for infinite learning in the tech world/</h3>
