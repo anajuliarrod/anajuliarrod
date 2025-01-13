@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ana Júlia</h1>
-<h3 align="center">Searching for infinite learning in the tech world</h3>
+<h1 align="center">Hi, I'm Ana Júlia</h1>
+<h3 align="center">/searching for infinite learning in the tech world/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajuliarrod&label=Profile%20views&color=0e75b6&style=flat" alt="anajuliarrod" /> </p>
 
-- 🔭 I’m currently working on **my github profile**
+- 🔭 I’m currently working on **improving my tech skills**
 
-- 👯 I’m looking to collaborate on **understand more about game creation**
+- 👯 I’m looking to collaborate on **hackathon projects**
 
-- 💬 Ask me about **math,rocket making**
+- 💬 Ask me about **math, fisics, rocket making, writting**
 
-- 📫 How to reach me **ana.ribeiro@sou.inteli**
+- 📫 How to reach me **ana.ribeiro@sou.inteli.edu.br or anajulia.rodrigues.ismart@gmail.com for personal matters**
 
-- 📄 Know about my experiences [https://www.linkedin.com/analytics/profile-views/](https://www.linkedin.com/analytics/profile-views/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/ana-j%C3%BAlia-ribeiro/)]()
 
 - ⚡ Fun fact **Once upon a time I got drunk as a baby because my mom thought a cocktail was orange juice and gave it to me. I grow up just fine and that never happened again.**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ana júlia ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana júlia ribeiro" height="30" width="40" /></a>
